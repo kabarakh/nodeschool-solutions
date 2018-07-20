@@ -77,3 +77,4 @@ $RECYCLE.BIN/
 *.lnk
 
 /node_modules/*
+.vscode
